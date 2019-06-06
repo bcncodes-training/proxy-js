@@ -1,3 +1,3 @@
 # proxy-js
 
-Como resolver el error :sob:
+Cómo resolver el error :sob:
